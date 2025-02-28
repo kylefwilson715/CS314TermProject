@@ -66,4 +66,3 @@ If you encounter any issues during installation or running the application:
 2. Check if the specified ports are available
 3. Look for error messages in the terminal output
 4. Verify that environment variables are correctly set (if applicable)
-
