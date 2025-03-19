@@ -1,6 +1,52 @@
-# Getting Started with Create React App
+# Full Stack Project Setup
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository contains both frontend and backend components for the project.
+
+## Cloning the Repository
+
+To get started, clone the repository using the following command:
+
+```bash
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
+```
+
+## Setting Up the Frontend
+
+Navigate to the frontend directory and install dependencies:
+
+```bash
+cd frontend
+npm install
+```
+
+Run the frontend application:
+
+```bash
+npm start
+```
+
+## Setting Up the Backend
+
+Navigate to the backend directory and install dependencies:
+
+```bash
+cd backend
+npm install
+```
+
+Run the backend server:
+
+```bash
+node index.js
+```
+
+## Additional Information
+
+- The frontend runs on [http://localhost:3000](http://localhost:3000).
+- The backend server runs on [http://localhost:5001](http://localhost:5001).
+
+Below are additional details originally included in the frontend setup:
 
 ## Available Scripts
 
